@@ -27,5 +27,5 @@ My academic focus revolves around data mining, with a specialized interest in re
 
 
 # 🎓 Educations
-- *2022.09 - 2026.07 (Excepted)*, Beijing University of Technology | University College Dublin. **Bachelor of Science** Major in *Software Engineering*
+- *2022.09 - 2026.07 (Excepted)*, Beijing University of Technology & University College Dublin. Major in *Software Engineering*
 
