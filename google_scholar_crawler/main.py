@@ -4,6 +4,8 @@ import json
 from datetime import datetime
 import os
 
+scholarly.set_timeout(30)
+
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 
 if author:
