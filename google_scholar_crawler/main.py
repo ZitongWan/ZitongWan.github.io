@@ -6,7 +6,7 @@ import os
 
 time = 0
 
-if time = 0:
+if time == 0:
     time += 1
     author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 
